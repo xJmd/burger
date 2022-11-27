@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+body{
+
+    background: linear-gradient(to right, salmon, rgb(255, 0, 0));
+    font-family: 'Poppins', sans-serif;
+   
+   
+
+
+}
+
+
+::placeholder{
+
+    color: rgb(118, 104, 104);
+    text-shadow: 2px 2px 4px gray;
+
+
+}
+
+
+
+
+.FN{
+
+
+    color: rgb(94, 52, 18);
+    height: 100px;
+    width: 500px;
+    font-size: 60px;
+    text-shadow: 2px 2px 4px rgb(215, 114, 80);
+    background-color: darksalmon;
+    box-shadow: 5px 5px 5px black;
+    position: absolute;
+    top: 15%;
+    left: 33%;
+
+
+}
+
+
+.LN{
+
+
+    color: rgb(94, 52, 18);
+    height: 100px;
+    width: 500px;
+    font-size: 60px;
+    text-shadow: 2px 2px 4px rgb(215, 114, 80);
+    background-color: darksalmon;
+    box-shadow: 5px 5px 5px black;
+    position: absolute;
+    top: 35%;
+    left: 33%;
+
+}
+
+
+
+
+.AD{
+
+
+    color: rgb(94, 52, 18);
+    height: 100px;
+    width: 500px;
+    font-size: 60px;
+    text-shadow: 2px 2px 4px rgb(215, 114, 80);
+    background-color: darksalmon;
+    box-shadow: 5px 5px 5px black;
+    position: absolute;
+    top: 55%;
+    left: 33%;
+
+}
+
+
+.sub{
+
+    color: rgb(53, 112, 168);
+    height: 70px;
+    width: 250px;
+    font-size: 30px;
+    text-shadow: 2px 2px 4px rgb(23, 28, 132);
+    background-color: rgb(153, 178, 233);
+    box-shadow: 5px 5px 5px black;
+    position: absolute;
+    top: 75%;
+    left: 41%;
+
+
+
+}
+
+.ty{
+
+
+    text-align: center;
+    font-size: 40px;
+}
+
+
+.id{
+
+    text-align: center;
+    font-size: 40px;
+    margin-top: 330px;
+
+}
+
+.logo{
+
+    border-radius: 220px;
+    position: absolute;
+    top: 43%;
+    left: 40%;
+    box-shadow: 10px 10px 10px black;
+    border: 5px solid black;
+
+
+}
